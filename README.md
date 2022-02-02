@@ -8,6 +8,10 @@ With this app you can now use spotlight to launch grande omega, and it will work
 
 Instructions:
 
+Make sure you have nodejs installed, the LTS version (16.13.2) version 17 will break compatibility with the python chapters. 
+
+If you installed node via homebrew, uninstall it first and then run ```brew install node@16``` and ```brew link --force node@16```
+
 Clone or download this repository
 
 You can clone by typing ```git clone https://github.com/dvdzmr/grandeomega-MacOS-app.git``` in terminal whilst in your preferred folder. 
@@ -31,3 +35,4 @@ If i have time in a future version ill add an auto updater that will do this by 
 After running the app it should open a terminal folder and immediatly launch Grande Omega itself. 
 
 ![image](https://user-images.githubusercontent.com/51931592/152075779-51f0d09a-e38e-4a5e-9b32-74505dfa3870.png)
+
