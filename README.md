@@ -20,8 +20,14 @@ Make sure that you download Grande Omega from the official website, and then put
 
 This is how it should look like: 
 
-![alt text](https://i.imgur.com/WcL7qk3.png)
+![image](https://user-images.githubusercontent.com/51931592/152075808-83957f75-e732-4537-88c9-296cd348f306.png)
+
 
 Everytime there is an update, simply remove and replace this folder with the new version. 
 
 If i have time in a future version ill add an auto updater that will do this by itself.
+
+
+After running the app it should open a terminal folder and immediatly launch Grande Omega itself. 
+
+![image](https://user-images.githubusercontent.com/51931592/152075779-51f0d09a-e38e-4a5e-9b32-74505dfa3870.png)
