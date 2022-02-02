@@ -10,7 +10,7 @@ Instructions:
 
 Clone or download this repository
 
-You can clone by typing ```git clone https://github.com/dvdzmr/grandeomega-MacOS-app.git``` whilst in your preferred folder. 
+You can clone by typing ```git clone https://github.com/dvdzmr/grandeomega-MacOS-app.git``` in terminal whilst in your preferred folder. 
 
 I suggest typing ```cd Downloads``` first if you are not familiar with the terminal, that way this folder shows up in your downloads folder.
 
