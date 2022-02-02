@@ -8,7 +8,8 @@ With this app you can now use spotlight to launch grande omega, and it will work
 
 Instructions:
 
-Make sure you have nodejs installed, the LTS version (16.13.2) version 17 will break compatibility with the python chapters. 
+Make sure you have nodejs installed, the LTS version (16.13.2) ! 
+Version 17 will break compatibility with the python chapters where they are stuck in a infinite hang. This also counts for Linux and Windows installs.
 
 If you installed node via homebrew, uninstall it first and then run ```brew install node@16``` and ```brew link --force node@16```
 
